@@ -1,0 +1,3 @@
+[submodule "pancakeswap_wrapper"]
+	path = pancakeswap_wrapper
+	url = https://github.com/admanny/pancakeswap_wrapper.git

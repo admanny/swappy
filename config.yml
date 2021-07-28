@@ -1,0 +1,4 @@
+swap:
+  network_url: "network-url"
+  my_pk: "private-key"
+  my_address: "address"
